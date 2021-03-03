@@ -1,0 +1,7 @@
+LS\n
+NEW file10.txt \n
+NEW file7.txt\n
+NEW file8.txt sadrzaj\n
+NEW file9.txt\n\n\n
+NEW file9.txt \n\n\n
+LS

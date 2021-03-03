@@ -1,0 +1,15 @@
+Error: LS\n
+Error: NEW file7.txt\n
+Error: NEW file9.txt\n\n\n
+\file10.txt
+\file5.exe
+\file8.txt
+\file9.txt
+\folder1
+\folder2
+\folder2\file1.txt
+\folder2\file2.txt
+\folder2\folder3
+\folder2\folder4
+\folder2\folder4\file3.txt
+\folder2\folder4\file4.txt

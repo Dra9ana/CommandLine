@@ -1,0 +1,10 @@
+CD folder2
+CD file1.txt
+CD folder5
+DEL file10.txt
+LS
+CD ..
+CD ..
+LS
+CD ..
+LS

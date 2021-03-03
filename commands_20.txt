@@ -1,0 +1,8 @@
+NEW folder1
+CD folder2
+EXE fajl.exe sadrzaj
+NEW folder4
+EXE folder sadrzaj
+NEW file2.txt
+EXE faj*_|
+LS

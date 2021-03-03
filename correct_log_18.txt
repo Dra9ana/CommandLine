@@ -1,0 +1,29 @@
+Error: CD file1.txt
+Error: CD folder5
+Error: DEL file10.txt
+\file1.txt
+\file2.txt
+\folder3
+\folder4
+\folder4\file3.txt
+\folder4\file4.txt
+Error: CD ..
+\file5.exe
+\folder1
+\folder2
+\folder2\file1.txt
+\folder2\file2.txt
+\folder2\folder3
+\folder2\folder4
+\folder2\folder4\file3.txt
+\folder2\folder4\file4.txt
+Error: CD ..
+\file5.exe
+\folder1
+\folder2
+\folder2\file1.txt
+\folder2\file2.txt
+\folder2\folder3
+\folder2\folder4
+\folder2\folder4\file3.txt
+\folder2\folder4\file4.txt

@@ -1,0 +1,7 @@
+Error: NEW fo*der_s_lo|im_imenom
+Error: EXE folder
+Error: NEW file.msm
+Error: EXE file
+Error: LS tekst
+Error: DEL folder4
+Error: EXE file.txt

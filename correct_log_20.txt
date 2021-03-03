@@ -1,0 +1,12 @@
+Error: NEW folder1
+Error: EXE fajl.exe sadrzaj
+Error: NEW folder4
+Error: EXE folder sadrzaj
+Error: NEW file2.txt
+Error: EXE faj*_|
+\file1.txt
+\file2.txt
+\folder3
+\folder4
+\folder4\file3.txt
+\folder4\file4.txt

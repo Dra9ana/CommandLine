@@ -1,0 +1,3 @@
+EXE file5.exe
+CD ..
+LS

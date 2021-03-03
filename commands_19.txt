@@ -1,0 +1,7 @@
+NEW fo*der_s_lo|im_imenom
+EXE folder
+NEW file.msm
+EXE file
+LS tekst
+DEL folder4
+EXE file.txt
